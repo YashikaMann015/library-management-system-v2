@@ -1,0 +1,8 @@
+node_modules/
+dist/
+*.exe
+*.o
+*.db
+.env
+.env.local
+.vscode/
